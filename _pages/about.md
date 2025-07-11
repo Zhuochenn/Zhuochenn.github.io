@@ -27,8 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. candidate in the Robot Perception Lab, supervised by Dr. [Shan Luo](https://shanluo.github.io/). I am also a research intern in Noah's Ark Lab, London, supervised by Dr. [Jiankang Deng](https://jiankangdeng.github.io/). My passion lies in endowing robots with generalizable and explainable tactile sensing abilities akin to those of humans. My Ph.D. research primarily focuses on overcoming challenges in vision-based tactile sensors and contact-rich robot grasping and manipulation tasks using learning-based methods, including generative learning, transfer learning, and reinforcement learning.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before starting my Ph.D., I spent a year as a fully-funded visiting student at the National University of Singapore, conducting research on Manta Ray robots, supervised by Prof. [Chew Chee-Meng](https://scholar.google.co.uk/citations?user=woLCMSYAAAAJ&hl=en). I obtained my master's degree from Xiamen University, where my research interests included the simulation, fabrication, and verification of flexible tactile sensors and their applications in robotics.
