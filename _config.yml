@@ -82,6 +82,15 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
+exclude:
+  - _blog/
+  - _projects/
+  - _posts/
+  - _repositories/
+  - _teaching/
+  - _people/
+  - _bookshelf/
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
@@ -643,12 +652,5 @@ jsonresume:
   - references
 
 
-exclude:
-  - _blog/
-  - _projects/
-  - _posts/
-  - _repositories/
-  - _teaching/
-  - _people/
-  - _bookshelf/
+
 
