@@ -14,7 +14,7 @@
       "region": "London"
     }
   },
-  "experiences": [
+  "works": [
     {
       "name": "Noah's Ark Lab",
       "location": "London, United Kingdom",
@@ -40,46 +40,33 @@
     {
       "institution": "King's College London",
       "location": "London, United Kingdom",
-      "url": "",
-      "area": "",
-      "studyType": "Doctor of Philosophy",
+      "area": "Tactile Sensing, Robot Manipulation",
+      "studyType": "Doctor of Philosophy in Engineering",
       "startDate": "2023-09-30",
-      "endDate": "2027-06-30",
-      "score": "",
-      "courses": [""]
+      "endDate": "2027-06-30"
     },
     {
       "institution": "National University of Singapore",
       "location": "Singapore",
-      "url": "",
-      "area": "",
       "studyType": "Visiting Research Student",
       "startDate": "2022-12-30",
-      "endDate": "2022-01-10",
-      "score": "",
-      "courses": [""]
+      "endDate": "2022-01-10"
     },
     {
       "institution": "Xiamen University",
       "location": "Xiamen, China",
-      "url": "",
-      "area": "",
-      "studyType": "Master's Degree",
+      "studyType": "Master's Degree in Mechanical Engineering",
       "startDate": "2022-12-30",
-      "endDate": "2019-09-10",
-      "score": "",
-      "courses": [""]
+      "endDate": "2019-09-10"
     },
     {
       "institution": "Northeastern University",
       "location": "Shenyang, China",
-      "url": "",
-      "area": "",
-      "studyType": "Bachelor's Degree",
+
+      "studyType": "Bachelor's Degree in Mechanical Engineering",
       "startDate": "2019-06-30",
-      "endDate": "2015-09-10",
-      "score": "",
-      "courses": [""]
+      "endDate": "2015-09-10"
+
     }
   ]
 }
