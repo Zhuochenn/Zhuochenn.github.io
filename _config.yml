@@ -178,7 +178,6 @@ exclude:
   - _blog/
   - _books/
   - _dropdown/
-  - _news/
   - _profiles/
   - _projects/
   - _repositories/
