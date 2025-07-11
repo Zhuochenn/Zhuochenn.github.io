@@ -84,12 +84,14 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 exclude:
   - _blog/
+  - _books/
+  - _dropdown/
+  - _news/
+  - _profiles/
   - _projects/
-  - _posts/
   - _repositories/
   - _teaching/
-  - _people/
-  - _bookshelf/
+
 
 # -----------------------------------------------------------------------------
 # Blog
