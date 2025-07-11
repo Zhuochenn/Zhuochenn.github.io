@@ -641,3 +641,14 @@ jsonresume:
   - languages
   - interests
   - references
+
+
+exclude:
+  - _blog/
+  - _projects/
+  - _posts/
+  - _repositories/
+  - _teaching/
+  - _people/
+  - _bookshelf/
+
