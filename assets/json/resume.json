@@ -43,24 +43,23 @@
       "institution": "National University of Singapore",
       "location": "Singapore",
       "studyType": "Visiting Research Student",
-      "startDate": "2022-12-30",
-      "endDate": "2022-01-10"
+      "startDate": "2022-01-10",
+      "endDate": "2022-12-30"
     },
     {
       "institution": "Xiamen University",
       "location": "Xiamen, China",
       "studyType": "Master's Degree in Mechanical Engineering",
-      "startDate": "2022-12-30",
-      "endDate": "2019-09-10"
+      "startDate": "2019-09-10",
+      "endDate": "2022-12-30"
     },
     {
       "institution": "Northeastern University",
       "location": "Shenyang, China",
 
       "studyType": "Bachelor's Degree in Mechanical Engineering",
-      "startDate": "2019-06-30",
-      "endDate": "2015-09-10"
-
+      "startDate": "2015-09-10",
+      "endDate": "2019-06-30"
     }
   ]
 }
