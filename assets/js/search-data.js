@@ -386,12 +386,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_long/";
-            },},{id: "news-one-paper-is-accepted-to-iros-2024",
+      },{id: "news-one-paper-is-accepted-to-iros-2024",
           title: 'One paper is accepted to IROS 2024!',
           description: "",
           section: "News",},{id: "news-one-paper-is-accepted-to-ieee-robotics-and-automation-letters-r-al",
