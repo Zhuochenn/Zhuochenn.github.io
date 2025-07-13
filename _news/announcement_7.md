@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I start my Phd at robot perception lab at King's College London under supervision by Dr. Shan Luo1
+I start my Phd at robot perception lab at King's College London under supervision by Prof. Shan Luo!

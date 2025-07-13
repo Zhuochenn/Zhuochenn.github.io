@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am starting a new position as `AI research intern` at Huawei Noah's Ark Lab, London!
+I am starting a new position as AI research intern at Huawei Noah's Ark Lab, London!
