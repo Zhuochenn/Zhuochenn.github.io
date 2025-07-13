@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2025-01-30
+inline: true
+related_posts: false
+---
+
+One paper is accepted to ICRA 2025 as oral presentation!
