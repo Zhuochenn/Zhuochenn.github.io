@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to IROS 2024!
+One paper is accepted to IROS 2024 as oral presentation!
