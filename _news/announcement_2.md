@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to IEEE Robotics and Automation Letters (R-AL)!
+One paper is accepted to IEEE Robotics and Automation Letters (R-AL) & ICRA 2025!
