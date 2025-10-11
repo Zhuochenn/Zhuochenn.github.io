@@ -419,6 +419,9 @@ ninja.data = [{
           section: "News",},{id: "news-one-paper-is-accepted-to-iros-2025",
           title: 'One paper is accepted to IROS 2025!',
           description: "",
+          section: "News",},{id: "news-one-paper-is-accepted-to-r-al-congratulations-to-zhiyuan",
+          title: 'One paper is accepted to R-AL. Congratulations to Zhiyuan!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
