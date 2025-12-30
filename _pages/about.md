@@ -6,7 +6,7 @@ subtitle: <a href='#'>King's College London</a>, London, UK.
 
 profile:
   align: right
-  image: zhuo.png
+  image: zhuo.JPG
   image_circular: false # crops the image to make it circular
   more_info:
   

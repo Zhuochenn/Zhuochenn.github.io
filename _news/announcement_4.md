@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to IROS 2025!
+[Surrogate Diffusion](https://arxiv.org/abs/2506.14706) has been accepted to IROS 2025!

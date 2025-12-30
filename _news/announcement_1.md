@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to IROS 2024 !
+[DARE](https://ieeexplore.ieee.org/abstract/document/10801904) for force calibration across VBTS is accepted to IROS 2024!

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted to ICRA 2025!
+[TransForce](https://ieeexplore.ieee.org/abstract/document/11127381) has been accepted to ICRA 2025!
