@@ -425,8 +425,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-be-joining-in-nvidia-seattle-robotics-lab-as-a-research-scientist-intern-in-2026-summer-look-forward-to-this-journey",
           title: 'I will be joining in Nvidia Seattle Robotics Lab as a Research Scientist...',
           description: "",
-          section: "News",},{id: "news-genforce-a-framework-for-transferable-force-prediction-across-diverse-tactile-sensors-has-been-accepted-to-nature-communications",
-          title: 'GenForce, a framework for transferable force prediction across diverse tactile sensors has been...',
+          section: "News",},{id: "news-genforce-a-framework-for-transferable-force-sensing-across-diverse-tactile-sensors-has-been-accepted-to-nature-communications",
+          title: 'GenForce, a framework for transferable force sensing across diverse tactile sensors has been...',
           description: "",
           section: "News",},{
         id: 'social-email',
