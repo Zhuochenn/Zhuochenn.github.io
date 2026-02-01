@@ -431,6 +431,9 @@ ninja.data = [{
           section: "News",},{id: "news-genforce-a-framework-for-transferable-force-sensing-across-diverse-tactile-sensors-has-been-accepted-to-nature-communications",
           title: 'GenForce, a framework for transferable force sensing across diverse tactile sensors has been...',
           description: "",
+          section: "News",},{id: "news-magicskin-has-been-accepted-to-icra2026-congratulations-to-timi-the-first-msc-student-i-mentored-for-his-individual-project-at-kings-very-well-done",
+          title: 'MagicSkin has been accepted to ICRA2026, congratulations to Timi, the first Msc. student...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
