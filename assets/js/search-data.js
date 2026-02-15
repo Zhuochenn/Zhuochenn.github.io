@@ -434,6 +434,9 @@ ninja.data = [{
           section: "News",},{id: "news-magicskin-has-been-accepted-to-icra2026-congratulations-to-timi-the-first-msc-student-i-mentored-for-his-individual-project-at-kings-very-well-done",
           title: 'MagicSkin has been accepted to ICRA2026, congratulations to Timi, the first Msc. student...',
           description: "",
+          section: "News",},{id: "news-our-7th-vitac-workshop-has-been-accepted-to-icra2026-stay-tunned",
+          title: 'Our 7th ViTac Workshop has been accepted to ICRA2026, stay tunned !',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
