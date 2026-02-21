@@ -437,6 +437,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-7th-vitac-workshop-has-been-accepted-to-icra2026-stay-tuned",
           title: 'Our 7th ViTac Workshop has been accepted to ICRA2026, stay tuned !',
           description: "",
+          section: "News",},{id: "news-semantic-vla-has-been-accepted-to-cvpr2026",
+          title: 'Semantic-VLA has been accepted to CVPR2026 !',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
