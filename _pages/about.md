@@ -38,9 +38,9 @@ Before starting my Ph.D., I spent one year as a fully-funded visiting student at
         </div>
     </div>
     <div class="col-sm-3 text-center mb-3">
-        <img src="{{ 'assets/img/experience/imperial.png' | relative_url }}" alt="Imperial" style="max-height: 70px; width: auto;" title="Imperial">
+        <img src="{{ 'assets/img/experience/imperial.jpg' | relative_url }}" alt="Imperial" style="max-height: 70px; width: auto;" title="Imperial">
         <div style="font-size: 0.9em; margin-top: 10px;">
-            <div style="font-weight: bold;">IC</div>
+            <div style="font-weight: bold;">Imperial College London</div>
             <div>Research Intern</div>
             <div>Oct. 24 - Present</div>
         </div>
@@ -48,7 +48,7 @@ Before starting my Ph.D., I spent one year as a fully-funded visiting student at
     <div class="col-sm-3 text-center mb-3">
         <img src="{{ 'assets/img/experience/kcl.png' | relative_url }}" alt="KCL" style="max-height: 68px; margin-top: 2px; width: auto;" title="KCL">
         <div style="font-size: 0.9em; margin-top: 10px;">
-            <div style="font-weight: bold;">KCL</div>
+            <div style="font-weight: bold;">King's College London</div>
             <div>PhD & Research Assistant</div>
             <div>Oct. 23 - Present</div>
         </div>
