@@ -7,8 +7,8 @@ subtitle: <a href='#'>King's College London</a>, London, UK.
 profile:
   align: right
   image: zhuo.JPG
-  image_circular: false # crops the image to make it circular
-  more_info:
+  image_circular: True # crops the image to make it circular
+  more_info: ICRA2024, Yokohama
   
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
