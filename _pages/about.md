@@ -28,11 +28,9 @@ I am a `Ph.D. candidate (now third year)` in the [Robot Perception Lab(RPL)](htt
 
 Before starting my Ph.D., I spent one year as a fully-funded visiting student at the National University of Singapore, conducting research on Manta Ray robots, supervised by Prof. [Chew Chee-Meng](https://scholar.google.co.uk/citations?user=woLCMSYAAAAJ&hl=en). I obtained my master's degree from Xiamen University, where my research interests included the simulation, fabrication, and verification of flexible tactile sensors and their applications in robotics.
 
-<br>
-
 <div class="row justify-content-center">
     <div class="col-sm-3 text-center mb-3">
-        <img src="{{ 'assets/img/experience/nvidia.png' | relative_url }}" alt="Nvidia" style="max-height: 50px; width: auto;" title="Nvidia">
+        <img src="{{ 'assets/img/experience/nvidia.png' | relative_url }}" alt="Nvidia" style="max-height: 70px; width: auto;" title="Nvidia">
         <div style="font-size: 0.9em; margin-top: 10px;">
             <div style="font-weight: bold;">Nvidia</div>
             <div>Research Scientist Intern</div>
@@ -40,7 +38,7 @@ Before starting my Ph.D., I spent one year as a fully-funded visiting student at
         </div>
     </div>
     <div class="col-sm-3 text-center mb-3">
-        <img src="{{ 'assets/img/experience/imperial.jpg' | relative_url }}" alt="Imperial" style="max-height: 50px; width: auto;" title="Imperial">
+        <img src="{{ 'assets/img/experience/imperial.jpg' | relative_url }}" alt="Imperial" style="max-height: 70px; width: auto;" title="Imperial">
         <div style="font-size: 0.9em; margin-top: 10px;">
             <div style="font-weight: bold;">IC</div>
             <div>Research Intern</div>
@@ -48,7 +46,7 @@ Before starting my Ph.D., I spent one year as a fully-funded visiting student at
         </div>
     </div>
     <div class="col-sm-3 text-center mb-3">
-        <img src="{{ 'assets/img/experience/kcl.png' | relative_url }}" alt="KCL" style="max-height: 48px; margin-top: 2px; width: auto;" title="KCL">
+        <img src="{{ 'assets/img/experience/kcl.png' | relative_url }}" alt="KCL" style="max-height: 68px; margin-top: 2px; width: auto;" title="KCL">
         <div style="font-size: 0.9em; margin-top: 10px;">
             <div style="font-weight: bold;">KCL</div>
             <div>Research Assistant</div>
@@ -56,7 +54,7 @@ Before starting my Ph.D., I spent one year as a fully-funded visiting student at
         </div>
     </div>
     <div class="col-sm-3 text-center mb-3">
-        <img src="{{ 'assets/img/experience/nus.png' | relative_url }}" alt="nus" style="max-height: 50px; width: auto;" title="nus">
+        <img src="{{ 'assets/img/experience/nus.png' | relative_url }}" alt="nus" style="max-height: 70px; width: auto;" title="nus">
         <div style="font-size: 0.9em; margin-top: 10px;">
             <div style="font-weight: bold;">NUS</div>
             <div>Visiting Student Researcher</div>
