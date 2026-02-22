@@ -38,7 +38,7 @@ Before starting my Ph.D., I spent one year as a fully-funded visiting student at
         </div>
     </div>
     <div class="col-sm-3 text-center mb-3">
-        <img src="{{ 'assets/img/experience/imperial.jpg' | relative_url }}" alt="Imperial" style="max-height: 70px; width: auto;" title="Imperial">
+        <img src="{{ 'assets/img/experience/imperial.png' | relative_url }}" alt="Imperial" style="max-height: 70px; width: auto;" title="Imperial">
         <div style="font-size: 0.9em; margin-top: 10px;">
             <div style="font-weight: bold;">IC</div>
             <div>Research Intern</div>
@@ -49,8 +49,8 @@ Before starting my Ph.D., I spent one year as a fully-funded visiting student at
         <img src="{{ 'assets/img/experience/kcl.png' | relative_url }}" alt="KCL" style="max-height: 68px; margin-top: 2px; width: auto;" title="KCL">
         <div style="font-size: 0.9em; margin-top: 10px;">
             <div style="font-weight: bold;">KCL</div>
-            <div>Research Assistant</div>
-            <div>Nov. 23 - May 24</div>
+            <div>PhD & Research Assistant</div>
+            <div>Oct. 23 - Present</div>
         </div>
     </div>
     <div class="col-sm-3 text-center mb-3">
@@ -58,7 +58,7 @@ Before starting my Ph.D., I spent one year as a fully-funded visiting student at
         <div style="font-size: 0.9em; margin-top: 10px;">
             <div style="font-weight: bold;">NUS</div>
             <div>Visiting Student Researcher</div>
-            <div>Jan. 22 - Dec. 22</div>
+            <div>Jan. 22 - Jan. 23</div>
         </div>
     </div>
 </div>
