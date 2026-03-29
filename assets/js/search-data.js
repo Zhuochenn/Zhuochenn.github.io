@@ -433,6 +433,12 @@ ninja.data = [{
           section: "News",},{id: "news-semantic-vla-has-been-accepted-to-cvpr2026",
           title: 'Semantic-VLA has been accepted to CVPR2026 !',
           description: "",
+          section: "News",},{id: "news-peg-in-hole-assembly-learning-from-peg-out-of-hole-disassembly-has-been-accepted-by-ra-l-congrats-to-yongqiang",
+          title: 'Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly has been accepted by RA-L! Congrats to...',
+          description: "",
+          section: "News",},{id: "news-native-domain-camera-lidar-calibration-has-been-accepted-by-r-al-congrats-to-ni",
+          title: 'Native-Domain Camera–LiDAR Calibration has been accepted by R-AL! Congrats to Ni!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
