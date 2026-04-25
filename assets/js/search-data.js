@@ -439,6 +439,9 @@ ninja.data = [{
           section: "News",},{id: "news-native-domain-camera-lidar-calibration-has-been-accepted-by-r-al-congrats-to-ni",
           title: 'Native-Domain Camera–LiDAR Calibration has been accepted by R-AL! Congrats to Ni!',
           description: "",
+          section: "News",},{id: "news-i-am-invited-by-spring-nature-to-publish-a-special-issue-regarding-visual-tactile-sensing-in-the-international-journal-of-computer-vision-ijcv-ccf-a-i-will-be-serving-as-lead-guest-editor-stay-tuned",
+          title: 'I am invited by Spring Nature to publish a special issue regarding visual-tactile...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
