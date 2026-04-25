@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am invited by Springer Nature to publish a special issue regarding visual-tactile sensing in the [International Journal of Computer Vision (IJCV, CCF-A)](https://www.springer.com/journal/11263). I will be serving as lead guest editor. Stay tuned!
+I am invited by Springer Nature as lead guest editor to publish a special issue regarding visual-tactile sensing in the [International Journal of Computer Vision (IJCV, CCF-A)](https://www.springer.com/journal/11263). Stay tuned!
