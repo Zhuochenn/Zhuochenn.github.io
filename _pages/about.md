@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a `Ph.D. candidate (now third year)` in the [Robot Perception Lab(RPL)](https://kings-rpl.github.io/), supervised by Prof. [Shan Luo](https://shanluo.github.io/) at King's College London. I am also a research intern supervised by Prof. [Jiankang Deng](https://jiankangdeng.github.io/) at Imperial College London and an incoming research scientist intern at [Nvidia Seattle Robotics Lab](https://research.nvidia.com/labs/srl/) in 2026 summer. My passion lies in endowing robots with `tactile sensing` abilities akin to humans. My Ph.D. research primarily focuses on (1) robot tactile/force sensing & control, (2) foundation models across diverse tactile sensors, including vision-based tactile sensors and electronic skins, (3) vision-tactile-language-action (VTLA) models in contact-rich robot grasping and manipulation tasks. I contribute to above three aspects by designing/fabricating new sensor/skins, leveraging physical simulation techniques, sim-to-real transfer, and deep learning-based methods, including generative learning, transfer learning, and imitation learning. I serve as reviewer for T-RO, RA-L, RSS, ICRA, IROS, and Advanced Robotics Research.
+I am a `final-year Ph.D.` in the [Robot Perception Lab(RPL)](https://kings-rpl.github.io/), supervised by Prof. [Shan Luo](https://shanluo.github.io/) at King's College London. I am also a research scientist intern at [Nvidia Seattle Robotics Lab](https://research.nvidia.com/labs/srl/) hosted by [Yashraj Narang](https://research.nvidia.com/person/yashraj-narang) and [Iretiayo Akinola](https://research.nvidia.com/person/iretiayo-akinola). I worked closely with Prof. [Jiankang Deng](https://jiankangdeng.github.io/) at Imperial College London for embodied AI. My passion lies in endowing robots with `tactile sensing` abilities akin to humans. My Ph.D. research primarily focuses on (1) robot tactile/force sensing & control, (2) foundation models across diverse tactile sensors, including vision-based tactile sensors and electronic skins, (3) vision-tactile-language-action (VTLA) models in contact-rich robot grasping and manipulation tasks. I contribute to above three aspects by designing/fabricating new sensor/skins, leveraging physical simulation techniques, sim-to-real transfer, and deep learning-based methods, including generative learning, transfer learning, and imitation learning. I serve as reviewer for T-RO, RA-L, RSS, ICRA, IROS, and Advanced Robotics Research.
 
 <p style="color:red;">I will be graduating and am seeking a full-time position in industry or academia after my graduation in December 2026. Please feel free to contact me if my background aligns with your interests.</p>
 
@@ -35,7 +35,7 @@ I am a `Ph.D. candidate (now third year)` in the [Robot Perception Lab(RPL)](htt
         <div style="font-size: 0.9em; margin-top: 10px;">
             <div style="font-weight: bold;">Nvidia</div>
             <div>Research Scientist Intern</div>
-            <div>Incoming</div>
+            <div>Jun.26 - </div>
         </div>
     </div>
     <div class="col-sm-3 text-center mb-3">
@@ -43,7 +43,7 @@ I am a `Ph.D. candidate (now third year)` in the [Robot Perception Lab(RPL)](htt
         <div style="font-size: 0.9em; margin-top: 10px;">
             <div style="font-weight: bold;">Imperial College London</div>
             <div>Research Intern</div>
-            <div>Oct. 24 - Present</div>
+            <div>Oct. 24 - June. 26</div>
         </div>
     </div>
     <div class="col-sm-3 text-center mb-3">
