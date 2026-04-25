@@ -439,7 +439,7 @@ ninja.data = [{
           section: "News",},{id: "news-native-domain-camera-lidar-calibration-has-been-accepted-by-r-al-congrats-to-ni",
           title: 'Native-Domain Camera–LiDAR Calibration has been accepted by R-AL! Congrats to Ni!',
           description: "",
-          section: "News",},{id: "news-i-am-invited-by-springer-nature-as-lead-guest-editor-to-publish-a-special-issue-regarding-visual-tactile-sensing-in-the-international-journal-of-computer-vision-ijcv-ccf-a-stay-tuned",
+          section: "News",},{id: "news-i-am-invited-by-springer-nature-as-lead-guest-editor-to-publish-a-special-issue-regarding-visual-tactile-sensing-in-the-international-journal-of-computer-vision-ijcv-stay-tuned",
           title: 'I am invited by Springer Nature as lead guest editor to publish a...',
           description: "",
           section: "News",},{
