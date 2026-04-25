@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Peg-in-Hole Assembly Learning from Peg-out-of-Hole Disassembly has been accepted by RA-L! Congrats to Yongqiang!
+[Peg-in-Hole Assembly Learning](https://ieeexplore.ieee.org/document/11458772) from Peg-out-of-Hole Disassembly has been accepted by RA-L! Congrats to Yongqiang!
