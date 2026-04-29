@@ -442,6 +442,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-invited-by-springer-nature-as-lead-guest-editor-to-publish-a-special-issue-regarding-visual-tactile-sensing-in-the-international-journal-of-computer-vision-ijcv-stay-tuned",
           title: 'I am invited by Springer Nature as lead guest editor to publish a...',
           description: "",
+          section: "News",},{id: "news-i-am-very-honored-to-be-selected-as-2026-cohort-of-rss-pioneers-see-you-in-sydney",
+          title: 'I am very honored to be selected as 2026 cohort of RSS Pioneers!...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
