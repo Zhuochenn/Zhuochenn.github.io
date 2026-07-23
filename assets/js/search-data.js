@@ -445,6 +445,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-very-honored-to-be-selected-as-2026-cohort-of-rss-pioneers-see-you-in-sydney",
           title: 'I am very honored to be selected as 2026 cohort of RSS Pioneers!...',
           description: "",
+          section: "News",},{id: "news-vtloc-is-accepted-to-r-al-congratulations-to-zhiyuan",
+          title: 'VTLoc is accepted to R-AL. Congratulations to Zhiyuan!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
