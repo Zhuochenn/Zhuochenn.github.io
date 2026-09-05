@@ -445,11 +445,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-very-honored-to-be-selected-as-2026-cohort-of-rss-pioneers-see-you-in-sydney",
           title: 'I am very honored to be selected as 2026 cohort of RSS Pioneers!...',
           description: "",
-          section: "News",},{id: "news-vtloc-is-accepted-to-r-al-congratulations-to-zhiyuan",
-          title: 'VTLoc is accepted to R-AL. Congratulations to Zhiyuan!',
-          description: "",
-          section: "News",},{id: "news-unimorphgrasp-is-accepted-to-corl-2026-and-vtloc-is-accepted-to-r-al-congratulations-to-zhiyuan",
-          title: 'UniMorphGrasp is accepted to CoRL 2026, and VTLoc is accepted to R-AL. Congratulations...',
+          section: "News",},{id: "news-unimorphgrasp-is-accepted-to-corl-2026-vtloc-is-accepted-to-r-al-congratulations-to-zhiyuan",
+          title: 'UniMorphGrasp is accepted to CoRL 2026 ｜ VTLoc is accepted to R-AL. Congratulations...',
           description: "",
           section: "News",},{
         id: 'social-email',
