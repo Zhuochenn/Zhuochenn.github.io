@@ -448,6 +448,9 @@ ninja.data = [{
           section: "News",},{id: "news-vtloc-is-accepted-to-r-al-congratulations-to-zhiyuan",
           title: 'VTLoc is accepted to R-AL. Congratulations to Zhiyuan!',
           description: "",
+          section: "News",},{id: "news-unimorphgrasp-is-accepted-to-corl-2026-and-vtloc-is-accepted-to-r-al-congratulations-to-zhiyuan",
+          title: 'UniMorphGrasp is accepted to CoRL 2026, and VTLoc is accepted to R-AL. Congratulations...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
