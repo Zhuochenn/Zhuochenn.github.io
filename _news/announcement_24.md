@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-PACE is accepted to NeurIPS 2026 ! Congratulations to Fei!
+[PACE](https://PACE-embodied-robotics.github.io) is accepted to NeurIPS 2026 ! Congratulations to Fei!
