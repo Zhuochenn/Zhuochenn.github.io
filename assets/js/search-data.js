@@ -449,7 +449,7 @@ ninja.data = [{
           title: 'UniMorphGrasp is accepted to CoRL 2026 ｜ VTLoc is accepted to R-AL. Congratulations...',
           description: "",
           section: "News",},{id: "news-pace-is-accepted-to-neurips-2026-congratulations-to-fei",
-          title: 'PACE is accepted to NeurIPS 2026 ! Congratulations to Fei!',
+          title: 'PACE is accepted to NeurIPS 2026 ! Congratulations to Fei !',
           description: "",
           section: "News",},{
         id: 'social-email',
