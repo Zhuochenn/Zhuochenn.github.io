@@ -451,6 +451,9 @@ ninja.data = [{
           section: "News",},{id: "news-pace-is-accepted-to-neurips-2026-congratulations-to-fei",
           title: 'PACE is accepted to NeurIPS 2026 ! Congratulations to Fei !',
           description: "",
+          section: "News",},{id: "news-cabletac-is-accepted-to-corl-2026-simbench2real-workshop-and-physwm-workshop",
+          title: 'CableTac is accepted to CoRL 2026 SimBench2Real workshop and Physwm workshop!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
